@@ -6,9 +6,9 @@ if 18 <= age <= 45:
     print('你的年龄符合比赛要求')
     if has_resport == '是':
         print('你已提交体检报告！')
-        print('你可以参加比赛!')
+        print('你可以参加比赛！')
         if level == 1:
-            print(f'尊敬的{level}会员，比赛结束后，你可以领取纪念T恤一件!')
+            print(f'尊敬的{level}会员，比赛结束后，你可以领取纪念T恤一件！')
         elif level == 2:
             print(f'尊敬的{level}会员，比赛结束后，你可以领取专业跑鞋一双！')
         elif level == 3:
@@ -20,4 +20,4 @@ if 18 <= age <= 45:
     else:
         print('你输入的体检报告有误！')
 else:
-    print('抱歉，参数年龄需要在18到45之间')
+    print('抱歉，参数年龄需要在18到45之间！')
