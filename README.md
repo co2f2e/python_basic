@@ -1,7 +1,5 @@
 ## python_basic
 
-<hr>
-
 <div align="center">
 
 <a href="https://docs.python.org/zh-cn/3.13/library/functions.html">
